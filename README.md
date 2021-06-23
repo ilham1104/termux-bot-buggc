@@ -19,7 +19,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * NomerOwner
 * Prefix
 
-Custom di sini [SETTING](https://github.com/ilham1104/bot-termux-buggcx/settings/ilham.js/#L13)
+Custom di sini [SETTING](https://github.com/ilham1104/termux-bot-buggc/blob/main/settings/ilham.json)
 
 ## Penginstalan
 
